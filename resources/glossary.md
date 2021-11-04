@@ -44,7 +44,8 @@ kernel
 
 [lambda](https://docs.python.org/3.9/reference/expressions.html#lambda)
   they keyword used to define an anonymous function; lambda functions are defined with a compact syntax `<name> = lambda <parameters>: <body> `
-
+[Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+ A model for machine learning that takes a dependant variable, or our y, and finds a linear relationship between it and our features, or x. This relationship is called the coefficient. This information is then used to predict future relationships between x and y.
 [PEP 8](https://www.python.org/dev/peps/pep-0008/pep-0008/)
   [Python Enhancement Proposal](https://www.python.org/dev/peps/) 8, the Style Guide for Python Code.
 
