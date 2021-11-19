@@ -14,6 +14,8 @@ Contribute glossary items and  links for further reading using the suggest an ed
   a function that's defined on the fly, typically to lighten syntax or return a function within a function. In python, they're defined with the {term}`lambda` keyword.
 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
   a python library used to assist in web scraping, it pulls data from html and xml files that can be parsed in a variety of different ways using different methods.
+ [Clustering]
+  a type of unsupervised machine learning that works by seperating data points into clusters or groups of similiar, or dissimilar points. Similarity is gauged by closeness in relationship to other points.
 [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
   a data structure provided by pandas for tabular data in python.
 
